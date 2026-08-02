@@ -11,7 +11,7 @@ I'm a 1st Year Computer Engineering Student at TOBB ETÜ, passionate about softw
 - 💻 Building personal projects and coursework applications
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Java
+- **Languages:![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - **Tools & Concepts:** Git, OOP, Data Structures & Algorithms
 
 ---
