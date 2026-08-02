@@ -10,9 +10,11 @@ I'm a 1st Year Computer Engineering Student at TOBB ETÜ, passionate about softw
 - 📊 Exploring algorithms and software design patterns
 - 💻 Building personal projects and coursework applications
 
-### 🛠️ Tech Stack & Tools
-- **Languages:![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🛠️ Languages:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 - **Tools & Concepts:** Git, OOP, Data Structures & Algorithms
 
 ---
-*✨ "Code is like humor. When you have to explain it, it’s bad."*
+*✨ "ALL IS WELL"*
