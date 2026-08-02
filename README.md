@@ -11,10 +11,12 @@ I'm a 1st Year Computer Engineering Student at TOBB ETÜ, passionate about softw
 - 💻 Building personal projects and coursework applications
 
 ### 🛠️ Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+</p>
 
 - **Tools & Concepts:** Git, OOP, Data Structures & Algorithms
 
 ---
-*✨ "ALL IS WELL"*
+*✨ "All is well"*
