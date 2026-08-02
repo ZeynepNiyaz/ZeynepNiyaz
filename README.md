@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Zeynep! 👋
 
-<!--
-**ZeynepNiyaz/ZeynepNiyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1st Year Computer Engineering Student at TOBB ETÜ, passionate about software development, algorithms, and creative problem-solving.
 
-Here are some ideas to get you started:
+🎓 **Education:** 
+- **TOBB University of Economics and Technology** | B.S. in Computer Engineering (Freshman)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+- ☕ Developing OOP & Java applications (Game mechanics, data structures, GUI)
+- 📊 Exploring algorithms and software design patterns
+- 💻 Building personal projects and coursework applications
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Java, HTML/CSS
+- **Tools & Concepts:** Git, OOP, Data Structures & Algorithms
+
+---
+*✨ "Code is like humor. When you have to explain it, it’s bad."*
