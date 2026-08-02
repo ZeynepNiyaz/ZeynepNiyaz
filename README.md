@@ -19,4 +19,4 @@ I'm a 1st Year Computer Engineering Student at TOBB ETÜ, passionate about softw
 - **Tools & Concepts:** Git, OOP, Data Structures & Algorithms
 
 ---
-*✨ "All is well"*
+*✨ "ALL IS WELL"*
